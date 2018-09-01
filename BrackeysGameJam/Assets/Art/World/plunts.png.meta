@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: 4b77820c17f75fb49aefece8f9b94a94
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: plunts_0
+    21300002: plunts_1
+    21300004: plunts_2
+    21300006: plunts_3
+    21300008: plunts_4
+    21300010: plunts_5
+    21300012: plunts_6
+    21300014: plunts_7
+    21300016: plunts_8
+    21300018: plunts_9
+    21300020: plunts_10
+    21300022: plunts_11
+    21300024: plunts_12
+    21300026: plunts_13
+    21300028: plunts_14
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plunts_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 749
+        width: 317
+        height: 406
+      alignment: 9
+      pivot: {x: 0.49075896, y: 0.09233762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f75b18d6f11e44dbde33157d63facb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 733
+        width: 191
+        height: 423
+      alignment: 9
+      pivot: {x: 0.6687085, y: 0.067169406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c08b88e40514fa42a3b97dcf9d14a0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 770
+        width: 321
+        height: 405
+      alignment: 9
+      pivot: {x: 0.554755, y: 0.029849809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b36afe0d8e80604e8c4521495c4fbc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_3
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 830
+        width: 365
+        height: 278
+      alignment: 9
+      pivot: {x: 0.69261795, y: 0.12592234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaae51e41b74b4408c36f9dd2bb2a40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_4
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 515
+        width: 262
+        height: 280
+      alignment: 9
+      pivot: {x: 0.39937165, y: 0.13905618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d34f25a6eb0da45afc57bbb374e169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_5
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 24
+        width: 330
+        height: 377
+      alignment: 9
+      pivot: {x: 0.49999964, y: 0.05320867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b119a8b99524f941a38c389d633a5cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_6
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 33
+        width: 401
+        height: 559
+      alignment: 9
+      pivot: {x: 0.5657469, y: 0.046703324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66e69399161bd547aeb3a052893a440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 14
+        width: 217
+        height: 192
+      alignment: 9
+      pivot: {x: 0.43250242, y: 0.110939346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d12c6578cbdf5641b831d0fe7b7da67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 200
+        width: 404
+        height: 222
+      alignment: 9
+      pivot: {x: 0.4891235, y: 0.06454901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaba7c8f53770546b8ff261127fa5eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 11
+        width: 168
+        height: 158
+      alignment: 9
+      pivot: {x: 0.34306806, y: 0.14773081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe065c423984004d878d2923c9bc939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 14
+        width: 145
+        height: 146
+      alignment: 9
+      pivot: {x: 0.37878364, y: 0.06861615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cede73d1df4bd4faa16f9a5898e2fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 231
+        width: 343
+        height: 499
+      alignment: 9
+      pivot: {x: 0.4359461, y: 0.033292536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0836f15e7830194b80fb5c42af7d2be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 422
+        width: 312
+        height: 266
+      alignment: 9
+      pivot: {x: 0.5704181, y: 0.06499567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f3c7337e61ab744b5d49aceb15a5f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_13
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 696
+        width: 373
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380195fdd5f0ee64f8205ff0e2eeb4d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunts_14
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1035
+        width: 378
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0709e5c401558e14ab3418a4ec2cae02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3f16969f92cfc254caa8d5862cefbf3b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
